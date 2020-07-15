@@ -1,0 +1,20 @@
+Detecting High Memory consuming functions in .NET code
+
+http://www.codeproject.com/Articles/45292/NET-Best-Practice-No-Detecting-High-Memory-cons
+
+Articles by Shivprasa-Koirala
+http://www.codeproject.com/Articles/Shivprasad-koirala
+
+MVC interview Questions and Answers
+http://www.codeproject.com/Articles/556995/ASP-NET-MVC-interview-questions-with-answers
+
+AngularJS Interview Questions and Answers
+http://www.codeproject.com/Articles/891718/AngularJS-Interview-Questions-and-Answers
+
+Improve bandwidth performance of ASP.NET sites using IIS compression
+
+http://www.codeproject.com/Articles/42391/Best-Practice-No-Improve-band
+
+SQL Query Optimization
+
+http://www.codeproject.com/Articles/55505/SQL-Query-Optimization-FAQ-Part-With-video-expla
